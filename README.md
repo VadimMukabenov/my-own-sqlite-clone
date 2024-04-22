@@ -1,5 +1,5 @@
 # go-db
-A simple database for learning, inspired by https://cstack.github.io/db_tutorial
+A simple database for learning, inspired by https://cstack.github.io/db_tutorial and https://github.com/tomial/go-db
 
 roadmap:
 - [x] B+Tree
